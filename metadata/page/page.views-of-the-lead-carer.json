@@ -1,6 +1,14 @@
 {
   "_id": "page.views-of-the-lead-carer",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.views-of-the-lead-carer--textarea.auto_name__39",
+      "_type": "textarea",
+      "label": "Only provide the views of the main carer who's not a professional.",
+      "name": "auto_name__39"
+    }
+  ],
   "heading": "What are the views of the patient's main carer?",
   "url": "views-of-the-lead-carer"
 }
