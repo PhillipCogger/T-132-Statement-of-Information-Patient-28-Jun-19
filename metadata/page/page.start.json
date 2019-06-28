@@ -1,6 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
+  "body": "This report must be up-to-date and be specifically prepared for the tribunal. \r\n\r\nIt should be signed and dated.\r\n\r\nThe sources of information for the events and incidents described must be made clear. \r\n\r\nThis report should not be an addendum to (or reproduce extensive details from) previous reports, but must briefly describe the patient's recent relevant history and current presentation.",
   "extraComponents": [
     {
       "_id": "page.start--content",
@@ -8,7 +9,7 @@
       "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
     }
   ],
-  "heading": "In-Patient: Statement of Information about the Patient",
+  "heading": "In-Patient: Social Circumstances Report",
   "steps": [
     "page.about-you",
     "page.about-the-patient",

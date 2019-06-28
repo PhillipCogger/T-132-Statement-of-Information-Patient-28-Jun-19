@@ -2,8 +2,8 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "In-Patient: Statement of Information about the Patient",
-  "pdfHeading": "In-Patient: Statement of Information about the Patient",
+  "name": "In-Patient: Social Circumstances Report",
+  "pdfHeading": "In-Patient: Social Circumstances Report",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }
