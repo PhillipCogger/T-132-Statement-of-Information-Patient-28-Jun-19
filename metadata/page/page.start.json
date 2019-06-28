@@ -16,7 +16,8 @@
     "page.patient-address",
     "page.can-the-patient-cope-with-a-hearing",
     "page.tribunal-adjustments",
-    "page.index-offence-details"
+    "page.index-offence-details",
+    "page.patient-previous-mental-health-service-dates"
   ],
   "url": "/"
 }
