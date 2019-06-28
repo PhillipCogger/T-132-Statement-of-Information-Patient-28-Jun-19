@@ -23,7 +23,14 @@
     "page.patient-financial-situation",
     "page.work-for-patient-if-discharged",
     "page.previous-response-to-community-support",
-    "page.patient-care-pathway"
+    "page.patient-care-pathway",
+    "page.patient-care-plan",
+    "page.care-plan-success",
+    "page.care-plan-finding-issues",
+    "page.patient-strengths-in-weaknesses",
+    "page.patient-progress-and-behaviour",
+    "page.patient-incidents-in-hospital",
+    "page.patient-property-damage"
   ],
   "url": "/"
 }

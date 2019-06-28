@@ -1,0 +1,13 @@
+{
+  "_id": "page.patient-strengths-in-weaknesses",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.patient-strengths-in-weaknesses--textarea.auto_name__29",
+      "_type": "textarea",
+      "label": "What are the patient's strengths?",
+      "name": "auto_name__29"
+    }
+  ],
+  "url": "patient-strengths-in-weaknesses"
+}

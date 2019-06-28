@@ -1,0 +1,14 @@
+{
+  "_id": "page.patient-care-plan",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.patient-care-plan--textarea.auto_name__25",
+      "_type": "textarea",
+      "label": "Give details of the proposed care plan.",
+      "name": "auto_name__25"
+    }
+  ],
+  "heading": "Patient care plan",
+  "url": "patient-care-plan"
+}

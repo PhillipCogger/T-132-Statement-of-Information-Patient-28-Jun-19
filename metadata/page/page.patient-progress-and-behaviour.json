@@ -1,0 +1,14 @@
+{
+  "_id": "page.patient-progress-and-behaviour",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.patient-progress-and-behaviour--textarea.auto_name__30",
+      "_type": "textarea",
+      "label": "Give a summary of the patient's current progress, behaviour, compliance and insight.",
+      "name": "auto_name__30"
+    }
+  ],
+  "heading": "Patient progress",
+  "url": "patient-progress-and-behaviour"
+}
