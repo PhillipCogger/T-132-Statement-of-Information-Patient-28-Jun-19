@@ -1,0 +1,14 @@
+{
+  "_id": "page.deprivation-of-liberty",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.deprivation-of-liberty--textarea.auto_name__44",
+      "_type": "textarea",
+      "label": "In the case of an eligible compliant patient who lacks capacity to agree or object to their detention or treatment, say whether or not deprivation of liberty under the Mental Capacity Act 2005 (as amended) would be appropriate and less restrictive.",
+      "name": "auto_name__44"
+    }
+  ],
+  "heading": "Is deprivation of liberty required?",
+  "url": "deprivation-of-liberty"
+}
