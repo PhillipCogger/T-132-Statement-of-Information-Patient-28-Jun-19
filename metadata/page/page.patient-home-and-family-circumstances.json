@@ -1,0 +1,13 @@
+{
+  "_id": "page.patient-home-and-family-circumstances",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.patient-home-and-family-circumstances--textarea.auto_name__18",
+      "_type": "textarea",
+      "label": "What are the patient's home and family circumstances?",
+      "name": "auto_name__18"
+    }
+  ],
+  "url": "patient-home-and-family-circumstances"
+}
