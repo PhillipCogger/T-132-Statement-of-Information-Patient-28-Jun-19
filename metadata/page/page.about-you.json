@@ -1,6 +1,33 @@
 {
   "_id": "page.about-you",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.about-you--text.auto_name__1",
+      "_type": "text",
+      "label": "Your full name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.about-you--text.auto_name__2",
+      "_type": "text",
+      "label": "Your role",
+      "name": "auto_name__2"
+    },
+    {
+      "_id": "page.about-you--date.auto_name__3",
+      "_type": "date",
+      "hint": "For example, 27 3 2018",
+      "label": "Date",
+      "name": "auto_name__3"
+    },
+    {
+      "_id": "page.about-you--fileupload.auto_name__4",
+      "_type": "fileupload",
+      "label": "Hospital logo",
+      "name": "auto_name__4"
+    }
+  ],
   "heading": "About you",
   "url": "about-you"
 }
