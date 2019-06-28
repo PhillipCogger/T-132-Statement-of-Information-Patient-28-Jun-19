@@ -1,0 +1,64 @@
+{
+  "_id": "page.patient-known-to-an-agency",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.patient-known-to-an-agency--radios.auto_name__40",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset",
+            "_type": "fieldset",
+            "components": [
+              {
+                "$component": true,
+                "$control": true,
+                "$definition": true,
+                "$field": true,
+                "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset--textarea.auto_name__41",
+                "_type": "textarea",
+                "label": "In which area, for what reason and at what level?",
+                "name": "auto_name__41"
+              },
+              {
+                "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset--text.auto_name__42",
+                "_type": "text",
+                "label": "What is the name of the Chair of any MAPPA meeting concerned with the patient?",
+                "name": "auto_name__42"
+              },
+              {
+                "$component": true,
+                "$control": true,
+                "$definition": true,
+                "$field": true,
+                "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset--text.auto_name__43",
+                "_type": "text",
+                "label": "What is the name of the representative of the lead agency?",
+                "name": "auto_name__43"
+              }
+            ]
+          },
+          "label": "Yes",
+          "value": "auto_value__15"
+        },
+        {
+          "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__16",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__16"
+        }
+      ],
+      "name": "auto_name__40"
+    },
+    {
+      "_id": "page.patient-known-to-an-agency--inset",
+      "_type": "inset",
+      "html": "If a MAPPA meeting or agency wishes to put forward evidence of its views in relation to the level and management of risk, a summary of those views (or an Executive Summary may be attached to this report); and where relevant, a copy of the Police National Computer record of previous convictions\r\nshould be attached."
+    }
+  ],
+  "heading": "Is the patient known to any MAPPA meeting or agency?",
+  "url": "patient-known-to-an-agency"
+}
