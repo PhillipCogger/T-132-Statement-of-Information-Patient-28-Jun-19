@@ -1,6 +1,20 @@
 {
   "_id": "page.patient-previous-mental-health-service-dates",
   "_type": "page.form",
+  "body": "Including any admissions to, discharge from and recall to hospital.",
+  "components": [
+    {
+      "_id": "page.patient-previous-mental-health-service-dates--date.auto_name__17",
+      "_type": "date",
+      "hint": "For example, 27 3 2018",
+      "label": "**Date**",
+      "name": "auto_name__17",
+      "repeatable": true,
+      "repeatableAdd": "Add another date",
+      "repeatableDelete": "Remove date",
+      "repeatableMaximum": 10
+    }
+  ],
   "heading": "When has the patient previously used mental health services?",
   "url": "patient-previous-mental-health-service-dates"
 }
