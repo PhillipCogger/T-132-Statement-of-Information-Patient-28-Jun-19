@@ -33,7 +33,8 @@
     "page.patient-property-damage",
     "page.patient-views-and-opinions",
     "page.views-of-patient-relative",
-    "page.contacting-the-nearest-relative"
+    "page.contacting-the-nearest-relative",
+    "page.views-of-the-lead-carer"
   ],
   "url": "/"
 }
