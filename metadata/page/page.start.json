@@ -37,7 +37,8 @@
     "page.views-of-the-lead-carer",
     "page.patient-known-to-an-agency",
     "page.deprivation-of-liberty",
-    "page.patient-hospital-detention"
+    "page.patient-hospital-detention",
+    "page.provision-of-medical-treatment"
   ],
   "url": "/"
 }

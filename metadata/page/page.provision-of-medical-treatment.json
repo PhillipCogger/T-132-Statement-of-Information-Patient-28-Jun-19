@@ -1,0 +1,28 @@
+{
+  "_id": "page.provision-of-medical-treatment",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.provision-of-medical-treatment--radios.auto_name__46",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.provision-of-medical-treatment--radios.auto_name__46--radio.auto_value__19",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__19"
+        },
+        {
+          "_id": "page.provision-of-medical-treatment--radios.auto_name__46--radio.auto_value__20",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__20"
+        }
+      ],
+      "legend": "In all other cases is the provision of medical treatment in hospital, justified or necessary in the interests of the patient's health or safety, or for the protection of others?",
+      "name": "auto_name__46"
+    }
+  ],
+  "heading": "Is the provision of medical treatment justified for safety reasons?",
+  "url": "provision-of-medical-treatment"
+}
