@@ -13,7 +13,9 @@
     "page.about-you",
     "page.about-the-patient",
     "page.patient-address",
-    "page.can-the-patient-cope-with-a-hearing"
+    "page.can-the-patient-cope-with-a-hearing",
+    "page.tribunal-adjustments",
+    "page.index-offence-details"
   ],
   "url": "/"
 }

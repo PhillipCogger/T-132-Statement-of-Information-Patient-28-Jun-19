@@ -1,0 +1,14 @@
+{
+  "_id": "page.index-offence-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.index-offence-details--textarea.auto_name__16",
+      "_type": "textarea",
+      "label": "Give details of any index offences and other relevant forensic history",
+      "name": "auto_name__16"
+    }
+  ],
+  "heading": "Index offences",
+  "url": "index-offence-details"
+}
