@@ -1,0 +1,14 @@
+{
+  "_id": "page.patient-financial-situation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.patient-financial-situation--textarea.auto_name__20",
+      "_type": "textarea",
+      "hint": "Include the patient's entitlements to benefits",
+      "label": "What is the patient's financial situation?",
+      "name": "auto_name__20"
+    }
+  ],
+  "url": "patient-financial-situation"
+}

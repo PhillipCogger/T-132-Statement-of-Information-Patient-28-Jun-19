@@ -18,7 +18,12 @@
     "page.tribunal-adjustments",
     "page.index-offence-details",
     "page.patient-previous-mental-health-service-dates",
-    "page.patient-home-and-family-circumstances"
+    "page.patient-home-and-family-circumstances",
+    "page.housing-and-accommodation-available-to-patient",
+    "page.patient-financial-situation",
+    "page.work-for-patient-if-discharged",
+    "page.previous-response-to-community-support",
+    "page.patient-care-pathway"
   ],
   "url": "/"
 }

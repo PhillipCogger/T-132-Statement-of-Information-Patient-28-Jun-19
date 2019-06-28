@@ -1,0 +1,14 @@
+{
+  "_id": "page.patient-care-pathway",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.patient-care-pathway--textarea.auto_name__24",
+      "_type": "textarea",
+      "hint": "What care pathway and Section 117 after-care will be made available to the patient?",
+      "label": "Patient care pathway and aftercare",
+      "name": "auto_name__24"
+    }
+  ],
+  "url": "patient-care-pathway"
+}
