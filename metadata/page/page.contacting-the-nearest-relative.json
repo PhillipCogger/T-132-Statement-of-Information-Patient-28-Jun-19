@@ -1,0 +1,33 @@
+{
+  "_id": "page.contacting-the-nearest-relative",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contacting-the-nearest-relative--radios.auto_name__37",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.contacting-the-nearest-relative--radios.auto_name__37--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.contacting-the-nearest-relative--radios.auto_name__37--radio.auto_value__14",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.contacting-the-nearest-relative--radios.auto_name__37--radio.auto_value__14--textarea.auto_name__38",
+            "_type": "textarea",
+            "label": "Say why you couldn't contact the nearest relative. What have you done to change the situation?",
+            "name": "auto_name__38"
+          },
+          "label": "No",
+          "value": "auto_value__14"
+        }
+      ],
+      "legend": "Did you contact the nearest relative to get their views?",
+      "name": "auto_name__37"
+    }
+  ],
+  "url": "contacting-the-nearest-relative"
+}

@@ -30,7 +30,10 @@
     "page.patient-strengths-in-weaknesses",
     "page.patient-progress-and-behaviour",
     "page.patient-incidents-in-hospital",
-    "page.patient-property-damage"
+    "page.patient-property-damage",
+    "page.patient-views-and-opinions",
+    "page.views-of-patient-relative",
+    "page.contacting-the-nearest-relative"
   ],
   "url": "/"
 }
