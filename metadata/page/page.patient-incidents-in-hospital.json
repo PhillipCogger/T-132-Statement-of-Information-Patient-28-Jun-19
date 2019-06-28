@@ -12,7 +12,7 @@
           "conditionalComponent": {
             "_id": "page.patient-incidents-in-hospital--radios.auto_name__31--radio.auto_value__9--textarea.auto_name__32",
             "_type": "textarea",
-            "label": "Give details of any incidents in hospital where the patient has harmed themselves or others, or threatened harm to others.",
+            "label": "Provide details, including where they have threatened harm to others.",
             "name": "auto_name__32"
           },
           "label": "Yes",
