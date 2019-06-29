@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "What housing or accommodation would be available to the patient?",
       "label": "Where would the patient live if they were discharged?",
-      "name": "auto_name__19"
+      "name": "patient_discharged_housing"
     }
   ],
   "url": "housing-and-accommodation-available-to-patient"

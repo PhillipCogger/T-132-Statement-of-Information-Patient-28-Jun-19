@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Include the patient's entitlements to benefits",
       "label": "What is the patient's financial situation?",
-      "name": "auto_name__20"
+      "name": "patient_financial_situation"
     }
   ],
   "url": "patient-financial-situation"

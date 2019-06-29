@@ -6,7 +6,7 @@
       "_id": "page.index-offence-details--textarea.auto_name__16",
       "_type": "textarea",
       "label": "Give details of any index offences and other relevant forensic history.",
-      "name": "auto_name__16"
+      "name": "index_offence_details"
     }
   ],
   "heading": "Index offences",

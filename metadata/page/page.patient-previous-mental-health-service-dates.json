@@ -8,7 +8,7 @@
       "_type": "date",
       "hint": "For example, 27 3 2018",
       "label": "**Date**",
-      "name": "auto_name__17",
+      "name": "mental_health_services_date",
       "repeatable": true,
       "repeatableAdd": "Add another date",
       "repeatableDelete": "Remove date",
