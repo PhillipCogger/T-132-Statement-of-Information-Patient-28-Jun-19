@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Say what the patient's previous response was to community support or Section 117 aftercare.",
       "label": "Patient response to support and aftercare",
-      "name": "auto_name__23"
+      "name": "patient_support_aftercare"
     }
   ],
   "url": "previous-response-to-community-support"

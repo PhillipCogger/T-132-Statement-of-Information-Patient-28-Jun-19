@@ -6,7 +6,7 @@
       "_id": "page.patient-care-plan--textarea.auto_name__25",
       "_type": "textarea",
       "label": "Give details of the proposed care plan.",
-      "name": "auto_name__25"
+      "name": "patient_care_plan_details"
     }
   ],
   "heading": "Patient care plan",

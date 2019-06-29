@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "What care pathway and Section 117 after-care will be made available to the patient?",
       "label": "Patient care pathway and aftercare",
-      "name": "auto_name__24"
+      "name": "patient_care_pathway_aftercare"
     }
   ],
   "url": "patient-care-pathway"

@@ -6,7 +6,7 @@
       "_id": "page.care-plan-success--textarea.auto_name__26",
       "_type": "textarea",
       "label": "How adequate or effective is the proposed care plan likely to be?",
-      "name": "auto_name__26"
+      "name": "patient_care_plan_impact"
     }
   ],
   "heading": "How effective do you think the care plan will be?",
