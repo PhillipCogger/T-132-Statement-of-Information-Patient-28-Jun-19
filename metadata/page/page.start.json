@@ -42,7 +42,8 @@
     "page.patient-discharged-from-hospital",
     "page.other-relevant-information",
     "page.tribunal-recommendations",
-    "page.confirmation"
+    "page.confirmation",
+    "page.check-your-answers"
   ],
   "url": "/"
 }
