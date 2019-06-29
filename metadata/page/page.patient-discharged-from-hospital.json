@@ -13,20 +13,20 @@
             "_id": "page.patient-discharged-from-hospital--radios.auto_name__47--radio.auto_value__21--textarea.auto_name__48",
             "_type": "textarea",
             "label": "Please explain how risks could be managed effectively in the community, including the use of any lawful conditions or recall powers",
-            "name": "auto_name__48"
+            "name": "patient_hospital_discharge_risk_reason"
           },
           "label": "Yes",
-          "value": "auto_value__21"
+          "value": "patient_hospital_discharge_risk_yes"
         },
         {
           "_id": "page.patient-discharged-from-hospital--radios.auto_name__47--radio.auto_value__22",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__22"
+          "value": "patient_hospital_discharge_risk_no"
         }
       ],
       "legend": "If the patient was discharged from hospital, would they be likely to act in a manner dangerous to themselves or others?",
-      "name": "auto_name__47"
+      "name": "patient_hospital_discharge_risk"
     }
   ],
   "heading": "Would the patient be a risk if they were discharged from hospital?",

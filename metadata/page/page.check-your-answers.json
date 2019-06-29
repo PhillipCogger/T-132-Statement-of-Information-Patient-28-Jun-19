@@ -2,6 +2,6 @@
   "_id": "page.check-your-answers",
   "_type": "page.summary",
   "sendBody": "By submitting this report you confirm that, to the best of your knowledge, the details you are providing are correct.",
-  "sendHeading": "Now send your report",
+  "sendHeading": "Send your report",
   "url": "check-your-answers"
 }

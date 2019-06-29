@@ -13,19 +13,19 @@
             "_id": "page.tribunal-recommendations--radios.auto_name__51--radio.auto_value__25--textarea.auto_name__52",
             "_type": "textarea",
             "label": "Give your recommendations and your reasons for them",
-            "name": "auto_name__52"
+            "name": "tribunal_recommendations_reasons"
           },
           "label": "Yes",
-          "value": "auto_value__25"
+          "value": "tribunal_recommendations_yes"
         },
         {
           "_id": "page.tribunal-recommendations--radios.auto_name__51--radio.auto_value__26",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__26"
+          "value": "tribunal_recommendations_no"
         }
       ],
-      "name": "auto_name__51"
+      "name": "tribunal_recommendations"
     }
   ],
   "heading": "Do you have any recommendations to the tribunal?",
