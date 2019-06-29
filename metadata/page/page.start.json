@@ -41,7 +41,8 @@
     "page.provision-of-medical-treatment",
     "page.patient-discharged-from-hospital",
     "page.other-relevant-information",
-    "page.tribunal-recommendations"
+    "page.tribunal-recommendations",
+    "page.confirmation"
   ],
   "url": "/"
 }
