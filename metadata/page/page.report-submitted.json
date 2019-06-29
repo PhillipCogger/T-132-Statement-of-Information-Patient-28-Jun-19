@@ -1,0 +1,6 @@
+{
+  "_id": "page.report-submitted",
+  "_type": "page.confirmation",
+  "heading": "Report submitted",
+  "url": "report-submitted"
+}
