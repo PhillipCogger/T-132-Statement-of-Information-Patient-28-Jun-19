@@ -38,7 +38,8 @@
     "page.patient-known-to-an-agency",
     "page.deprivation-of-liberty",
     "page.patient-hospital-detention",
-    "page.provision-of-medical-treatment"
+    "page.provision-of-medical-treatment",
+    "page.patient-discharged-from-hospital"
   ],
   "url": "/"
 }

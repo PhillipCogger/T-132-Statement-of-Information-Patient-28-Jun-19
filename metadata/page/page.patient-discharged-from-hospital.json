@@ -1,0 +1,34 @@
+{
+  "_id": "page.patient-discharged-from-hospital",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.patient-discharged-from-hospital--radios.auto_name__47",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.patient-discharged-from-hospital--radios.auto_name__47--radio.auto_value__21",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.patient-discharged-from-hospital--radios.auto_name__47--radio.auto_value__21--textarea.auto_name__48",
+            "_type": "textarea",
+            "label": "Please explain how risks could be managed effectively in the community, including the use of any lawful conditions or recall powers",
+            "name": "auto_name__48"
+          },
+          "label": "Yes",
+          "value": "auto_value__21"
+        },
+        {
+          "_id": "page.patient-discharged-from-hospital--radios.auto_name__47--radio.auto_value__22",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__22"
+        }
+      ],
+      "legend": "If the patient was discharged from hospital, would they be likely to act in a manner dangerous to themselves or others?",
+      "name": "auto_name__47"
+    }
+  ],
+  "heading": "Would the patient be a risk if they were discharged from hospital?",
+  "url": "patient-discharged-from-hospital"
+}
