@@ -40,7 +40,8 @@
     "page.patient-hospital-detention",
     "page.provision-of-medical-treatment",
     "page.patient-discharged-from-hospital",
-    "page.other-relevant-information"
+    "page.other-relevant-information",
+    "page.tribunal-recommendations"
   ],
   "url": "/"
 }

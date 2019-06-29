@@ -1,0 +1,33 @@
+{
+  "_id": "page.tribunal-recommendations",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.tribunal-recommendations--radios.auto_name__51",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.tribunal-recommendations--radios.auto_name__51--radio.auto_value__25",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.tribunal-recommendations--radios.auto_name__51--radio.auto_value__25--textarea.auto_name__52",
+            "_type": "textarea",
+            "label": "Give your recommendations and your reasons for them",
+            "name": "auto_name__52"
+          },
+          "label": "Yes",
+          "value": "auto_value__25"
+        },
+        {
+          "_id": "page.tribunal-recommendations--radios.auto_name__51--radio.auto_value__26",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__26"
+        }
+      ],
+      "name": "auto_name__51"
+    }
+  ],
+  "heading": "Do you have any recommendations to the tribunal?",
+  "url": "tribunal-recommendations"
+}
