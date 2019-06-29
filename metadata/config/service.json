@@ -2,8 +2,9 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "In-Patient: Social Circumstances Report",
-  "pdfHeading": "In-Patient: Social Circumstances Report",
+  "code": "T133",
+  "name": "T133: In-Patient: Social Circumstances Report",
+  "pdfHeading": "T133: In-Patient: Social Circumstances Report",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }
