@@ -6,7 +6,7 @@
       "_id": "page.patient-views-and-opinions--textarea.auto_name__35",
       "_type": "textarea",
       "label": "Describe the patient's views, wishes, beliefs, opinions, hopes and concerns as accurately as you can.",
-      "name": "auto_name__35"
+      "name": "patient_wishes_description"
     }
   ],
   "heading": "What are the patient's views, wishes, beliefs, opinions, hopes and concerns?",

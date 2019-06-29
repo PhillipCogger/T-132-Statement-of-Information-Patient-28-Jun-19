@@ -10,7 +10,7 @@
           "_id": "page.contacting-the-nearest-relative--radios.auto_name__37--radio.auto_value__13",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__13"
+          "value": "nearest_relative_views_contact_yes"
         },
         {
           "_id": "page.contacting-the-nearest-relative--radios.auto_name__37--radio.auto_value__14",
@@ -19,14 +19,14 @@
             "_id": "page.contacting-the-nearest-relative--radios.auto_name__37--radio.auto_value__14--textarea.auto_name__38",
             "_type": "textarea",
             "label": "Say why you couldn't contact the nearest relative. What have you done to change the situation?",
-            "name": "auto_name__38"
+            "name": "nearest_relative_no_contact_reason"
           },
           "label": "No",
-          "value": "auto_value__14"
+          "value": "nearest_relative_views_contact_no"
         }
       ],
       "legend": "Did you contact the nearest relative to get their views?",
-      "name": "auto_name__37"
+      "name": "nearest_relative_views_contact"
     }
   ],
   "url": "contacting-the-nearest-relative"
