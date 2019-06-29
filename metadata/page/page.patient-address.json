@@ -6,34 +6,34 @@
       "_id": "page.patient-address--text.auto_name__7",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__7",
+      "name": "patient_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.patient-address--text.auto_name__8",
       "_type": "text",
-      "name": "auto_name__8",
+      "name": "patient_address_street",
       "widthClassInput": "30"
     },
     {
       "_id": "page.patient-address--text.auto_name__9",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__9",
+      "name": "patient_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.patient-address--text.auto_name__10",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__10",
+      "name": "patient_address_county",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.patient-address--text.auto_name__11",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__11",
+      "name": "patient_address_postcode",
       "widthClassInput": "10"
     }
   ],
