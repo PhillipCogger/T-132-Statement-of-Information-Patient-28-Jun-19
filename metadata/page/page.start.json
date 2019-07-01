@@ -5,7 +5,6 @@
   "extraComponents": [
     {
       "_id": "page.start--content",
-      "_isa": "Start report",
       "_type": "content",
       "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
     }
