@@ -21,13 +21,19 @@
                 "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset--textarea.auto_name__41",
                 "_type": "textarea",
                 "label": "In which area, for what reason and at what level?",
-                "name": "patient_mappa_area_level_reason"
+                "name": "patient_mappa_area_level_reason",
+                "validation": {
+                  "required": false
+                }
               },
               {
                 "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset--text.auto_name__42",
                 "_type": "text",
                 "label": "What is the name of the Chair of any MAPPA meeting concerned with the patient?",
-                "name": "mappa_chair_name"
+                "name": "mappa_chair_name",
+                "validation": {
+                  "required": false
+                }
               },
               {
                 "$component": true,
@@ -37,7 +43,10 @@
                 "_id": "page.patient-known-to-an-agency--radios.auto_name__40--radio.auto_value__15--fieldset--text.auto_name__43",
                 "_type": "text",
                 "label": "What is the name of the representative of the lead agency?",
-                "name": "lead_agency_rep_name"
+                "name": "lead_agency_rep_name",
+                "validation": {
+                  "required": false
+                }
               }
             ]
           },
